@@ -1,4 +1,0 @@
-/home/joe/Documents/assetLibrary/CMakeFiles/imgui.dir
-/home/joe/Documents/assetLibrary/CMakeFiles/asset_library.dir
-/home/joe/Documents/assetLibrary/CMakeFiles/edit_cache.dir
-/home/joe/Documents/assetLibrary/CMakeFiles/rebuild_cache.dir
