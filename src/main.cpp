@@ -61,12 +61,14 @@ int main()
 
     ImGui::StyleColorsDark();
 
+
+
     ImGui_ImplSDL2_InitForOpenGL(window, gl_context);
     ImGui_ImplOpenGL3_Init(glsl_version);
 
-    bool show_demo_window = true;
-    bool show_another_window = false;
-    ImVec4 clear_color = ImVec4(0.45f, 0.55f, 0.60f, 1.00f);
+    // bool show_demo_window = true;
+    // bool show_another_window = false;
+    ImVec4 clear_color = ImVec4(0.0f, 0.0f, 0.60f, 1.00f);
     SDL_Event event;
     while(!gQuit)
     {
